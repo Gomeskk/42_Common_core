@@ -1,3 +1,21 @@
 [submodule "Libft"]
 	path = Libft
 	url = git@github.com:Gomeskk/Libft.git
+[submodule "Printf"]
+	path = Printf
+	url = git@github.com:Gomeskk/Printf.git
+[submodule "get_next_line"]
+	path = get_next_line
+	url = git@github.com:Gomeskk/get_next_line.git
+[submodule "Born2beroot"]
+	path = Born2beroot
+	url = git@github.com:Gomeskk/Born2beroot.git
+[submodule "Push_Swap"]
+	path = Push_Swap
+	url = git@github.com:Gomeskk/Push_Swap.git
+[submodule "Minitalk"]
+	path = Minitalk
+	url = git@github.com:Gomeskk/Minitalk.git
+[submodule "FDF"]
+	path = FDF
+	url = git@github.com:Gomeskk/FDF.git
