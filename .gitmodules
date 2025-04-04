@@ -19,3 +19,6 @@
 [submodule "FDF"]
 	path = FDF
 	url = git@github.com:Gomeskk/FDF.git
+[submodule "Philosophers"]
+	path = Philosophers
+	url = https://github.com/Gomeskk/Philosophers.git
